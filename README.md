@@ -48,7 +48,7 @@ Las capturas del workspace deben corresponder a ejecuciones reales. Consulta `do
 
 ## Evidencias y validación
 
-El taller fue ejecutado en Databricks por el autor. Se incluyen **15 capturas reales** en el [índice de evidencias](evidencias/README.md), con [resultados comprobados](docs/RESULTADOS_COMPROBADOS.md). Una captura de dependencias se excluyó por mostrar un correo personal; queda pendiente una versión anonimizada.
+El taller fue ejecutado en Databricks por el autor. Se incluyen **14 capturas reales** en el [índice de evidencias](evidencias/README.md), con [resultados comprobados](docs/RESULTADOS_COMPROBADOS.md). Una captura de dependencias se excluyó por mostrar un correo personal; queda pendiente una versión anonimizada.
 
 La revisión local comprueba sintaxis Python, estructura de notebooks, equivalencia de las dos versiones, reglas de limpieza y resultados del SQL mediante una adaptación a SQLite. No ejecuta Spark, Delta ni el planificador de Databricks. Consulta [VALIDACION.md](docs/VALIDACION.md).
 
@@ -75,3 +75,7 @@ El pipeline mostrado usa `Full recompute`. La actualización del resumen está c
 ## Autor
 
 Juan Nicolás Cortés
+
+## Captura final no publicada
+
+`E4_04_resumen_despues.png` fue revisada visualmente y confirma Tecnologia 398.000, diferencia 50.000 y 16 ventas limpias. La publicación automática bloqueó su subida al no poder verificar el archivo enviado. No está incluida en GitHub; queda pendiente de carga manual por el propietario.

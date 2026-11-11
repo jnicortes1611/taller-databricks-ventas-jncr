@@ -1,0 +1,43 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.databricks/
+.idea/
+.vscode/
+*.zip
+*.tmp
+*** Add File: /workspace/scratch/9e71d45ddbbc/taller-databricks-ventas/evidencias/README.md
+# Evidencias
+
+Ubica aquí las capturas reales de Databricks con los siguientes nombres.
+
+## Ejercicio 1
+
+- `E1_01_carga_18_registros.png`
+- `E1_02_catalogo_columnas.png`
+- `E1_03_consulta_categoria.png`
+
+## Ejercicio 2
+
+- `E2_01_limpieza.png`
+- `E2_02_resumen.png`
+- `E2_03_repeticion.png`
+
+## Ejercicio 3
+
+- `E3_01_dependencias.png`
+- `E3_02_primera_ejecucion_exitosa.png`
+- `E3_03_ejecucion_fallida.png`
+- `E3_04_causa_del_error.png`
+- `E3_05_ejecucion_final_exitosa.png`
+
+## Ejercicio 4
+
+- `E4_01_grafo_pipeline.png`
+- `E4_02_resumen_antes.png`
+- `E4_03_venta_agregada.png`
+- `E4_04_resumen_despues.png`
+
+No incluyas capturas con contraseñas, tokens u otros datos de acceso.
